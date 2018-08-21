@@ -1,0 +1,6 @@
+
+curl -H "Authorization: Bearer UvHW9Dq0xWgYEpDrCMgoLvoFU2B4Bfzu" -H "MadivaConsumer: AR_VALORA_PRE" 'https://madiva.inmoconsulta.com/ApiV3pre/rest/ar/geografia/provincias' --insecure
+
+curl -H "Authorization: Bearer UvHW9Dq0xWgYEpDrCMgoLvoFU2B4Bfzu" -H "MadivaConsumer: AR_VALORA_PRE" 'https://madiva.inmoconsulta.com/ApiV3pre/rest/ar/geografia/provincias/10/municipios' --insecure
+
+curl -H "Authorization: Bearer UvHW9Dq0xWgYEpDrCMgoLvoFU2B4Bfzu" -H "MadivaConsumer: AR_VALORA_PRE" 'https://madiva.inmoconsulta.com/ApiV3pre/rest/ar/geografia/provincias/6/municipios/588/localidades' --insecure
